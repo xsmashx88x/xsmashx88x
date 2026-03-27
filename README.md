@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/8lXjF3T.png" width="600" alt="Smash Banner">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Borderlands_logo.png/640px-Borderlands_logo.png" width="500" alt="Borderlands Banner">
 </p>
 
 # 👋 Hey, I'm Smash  
@@ -84,8 +84,8 @@ A growing set of small tools and scripts designed to make gaming smoother and mo
 ## ☢️ Borderlands x Fallout Theme Touches
 
 <p align="center">
-  <img src="https://i.imgur.com/8nQpZyq.png" width="120" alt="Vault Boy">
-  <img src="https://i.imgur.com/0uQfN8F.png" width="120" alt="Borderlands Psycho">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Vault_Boy.png" width="120" alt="Vault Boy">
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Borderlands_Psycho.png" width="120" alt="Borderlands Psycho">
 </p>
 
 <p align="center">
