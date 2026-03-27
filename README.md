@@ -38,6 +38,30 @@ Tracks rotating Fallout 76 Atomic Shop items, bundles, and limited‑time cosmet
 A simple, fast helper that lets players redeem SHiFT codes without digging through menus.  
 👉 **[Download Userscript](https://github.com/xsmashx88x/helperscript/blob/main/smash_shift_helper.user.js)**
 
+------------ Tools/Scripts : I did for me, Might drops them not sure tho ------------
+
+### 👤 **GM.Report/LootLemon Fofucs Scripts (Userscript)**  
+Highlights the focus of the modifers and for lootlemon the perks/gun info focus being in the middle of the site  
+👉 **[Image](https://raw.githubusercontent.com/xsmashx88x/xsmashx88x/main/gm_report-Lootlemon_viewchange.png)**
+
+---
+
+### 👤 **DIM WishList Saver (Userscript)**  
+Dims wishlist is cool, but does not allow single/double/triple perk combo's need to save perks from mag/barrel and others.. this for coloum 3/4 you can save perks and there you go :)  
+👉 **[Image](https://raw.githubusercontent.com/xsmashx88x/xsmashx88x/main/dim_wishlist_saver.png)**
+
+---
+
+### 👤 **DIM Tag (Adds to dim) (Userscript)**  
+dim has 4 default tags if i recall.. made a script that adds a icon and can set your own and as many as you want as well.. colors/icons/text and more  
+👉 **[Image](https://raw.githubusercontent.com/xsmashx88x/xsmashx88x/main/dim_tag-badge_fav_trash_others.png)**
+
+---
+
+### 👤 **DIM Fav Perks (Userscript)**  
+Colors the perks based on, category you have them under.. for me cyan was my fav's, blue/green was likes, red was pvp/trash etc  
+👉 **[Image](https://raw.githubusercontent.com/xsmashx88x/xsmashx88x/main/dim_fav_perk_color.png)**
+
 ---
 
 ## 🧰 Tech I Use
