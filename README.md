@@ -28,6 +28,12 @@ A clean, fast, auto‑updated tracker for BL4 SHiFT Codes, Golden Keys, and rewa
 
 |
 
+### 🔥 **Borderlands 4 SHiFT Code Tracker V2**  
+A clean, fast, auto‑updated tracker for BL4 SHiFT Codes, Golden Keys, and rewards.  
+👉 **[Visit Tracker](https://xsmashx88x.github.io/bl4shiftcodes/)**
+
+|
+
 ### 🛒 **Fallout 76 Item Store Tracker**  
 Tracks rotating Fallout 76 Atomic Shop items, bundles, and limited‑time cosmetics.  
 👉 **[Visit FO76 Store Tracker](https://xsmashx88x.github.io/SMASHFO76ITEMS/)**
