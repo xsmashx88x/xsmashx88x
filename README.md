@@ -26,13 +26,13 @@ I love creating trackers, helpers, and quality‑of‑life tools that make games
 A clean, fast, auto‑updated tracker for BL4 SHiFT Codes, Golden Keys, and rewards.  
 👉 **[Visit Tracker](https://xsmashx88x.github.io/Shift-Codes/)**
 
----
+|
 
 ### 🛒 **Fallout 76 Item Store Tracker**  
 Tracks rotating Fallout 76 Atomic Shop items, bundles, and limited‑time cosmetics.  
 👉 **[Visit FO76 Store Tracker](https://xsmashx88x.github.io/SMASHFO76ITEMS/)**
 
----
+|
 
 ### 🎫 **SHiFT Code Redeem Helper (Userscript)**  
 A simple, fast helper that lets players redeem SHiFT codes without digging through menus.  
@@ -73,7 +73,7 @@ Colors the perks based on, category you have them under.. for me cyan was my fav
 - UI/UX for gaming tools  
 - Automation & update workflows  
 
----
+|
 
 ## 📈 What I Focus On
 - Making **fast, lightweight gaming utilities**  
