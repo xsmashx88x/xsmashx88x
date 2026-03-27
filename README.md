@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/borderlands/borderlands.png" width="500" alt="Borderlands Banner">
-</p>
 
 # 👋 Hey, I'm Smash  
 ### ⚙️ Builder of Borderlands & Fallout Tools | 🎮 Gamer Dev | 🔧 UI/UX Focused
@@ -12,13 +8,6 @@ I love creating trackers, helpers, and quality‑of‑life tools that make games
 ---
 
 ## 🛡️ Badges & Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xsmashx88x&show_icons=true&theme=tokyonight&border_radius=10" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsmashx88x&layout=compact&theme=tokyonight&border_radius=10" height="165">
-
-</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Borderlands-FFCC00?style=for-the-badge&logo=steam&logoColor=black">
@@ -51,12 +40,6 @@ A simple, fast helper that lets players redeem SHiFT codes without digging throu
 
 ---
 
-### 🧩 **Helper Script Collection**  
-A growing set of small tools and scripts designed to make gaming smoother and more efficient.  
-👉 **[View Helper Scripts](https://github.com/xsmashx88x/helperscript/)**
-
----
-
 ## 🧰 Tech I Use
 - HTML / CSS / JS  
 - GitHub Pages  
@@ -71,43 +54,6 @@ A growing set of small tools and scripts designed to make gaming smoother and mo
 - Clean UI that works on any device  
 - SEO‑optimized pages that rank  
 - Helping gaming communities stay updated  
-
----
-
-# 🎮 Borderlands‑Style Cel‑Shaded Header
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cell-shading/cell-shading.png" width="400" alt="Cel Shaded Borderlands Style">
-</p>
-
-<p align="center">
-  <b>Bold lines. High contrast. Loot‑hunter energy.</b>
-</p>
-
----
-
-# ☢ Fallout Pip‑Boy Green UI
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fallout/fallout.png" width="150" alt="Pip-Boy Green">
-</p>
-
-<p align="center">
-  <b>Retro‑futuristic terminals. CRT glow. Vault‑Tec vibes.</b>
-</p>
-
----
-
-## ☢️ Borderlands x Fallout Theme Touches
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fallout/fallout.png" width="120" alt="Vault Boy">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/borderlands/borderlands.png" width="120" alt="Borderlands Psycho">
-</p>
-
-<p align="center">
-  <i>“May your loot be legendary and your caps be plenty.”</i>
-</p>
 
 ---
 
