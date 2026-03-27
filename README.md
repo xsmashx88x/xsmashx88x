@@ -38,7 +38,9 @@ Tracks rotating Fallout 76 Atomic Shop items, bundles, and limited‑time cosmet
 A simple, fast helper that lets players redeem SHiFT codes without digging through menus.  
 👉 **[Download Userscript](https://github.com/xsmashx88x/helperscript/blob/main/smash_shift_helper.user.js)**
 
---- Tools/Scripts : I did for me, Might drops them not sure tho ---
+---
+
+##  Tools/Scripts : I did for me, Might drops them not sure tho
 
 ### 👤 **GM.Report/LootLemon Fofucs Scripts (Userscript)**  
 Highlights the focus of the modifers and for lootlemon the perks/gun info focus being in the middle of the site  
