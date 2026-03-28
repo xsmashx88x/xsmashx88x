@@ -20,6 +20,15 @@ I love creating trackers, helpers, and quality‑of‑life tools that make games
 
 ---
 
+## 🌐 About Me Hub
+
+### 🔥 **About Me Page/Alterative to Link Pages**  
+A clean about me page 
+👉 **[Visit Site](https://xsmashx88x.github.io/SMASHLinks/)**
+
+
+---
+
 ## 🎮 Gaming Tools & Projects I’ve Built
 
 ### 🔥 **Borderlands 4 SHiFT Code Tracker**  
