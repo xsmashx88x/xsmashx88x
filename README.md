@@ -22,14 +22,32 @@ I love creating trackers, helpers, and quality‑of‑life tools that make games
 
 ## 🌐 About Me Hub
 
-### 🔥 **About Me Page/Alterative to Link Pages**  
-A clean about me page 
-👉 **[Visit Site](https://xsmashx88x.github.io/SMASHLinks/)**
+### 🔥 **Destiny 2 Distortions Tracker**  
+See Current, Next Up For A Few Hours, Send Browser Or Discord Alerts, Or Follow the discord and have alerts go to discord channel
+👉 **[Visit Site](https://xsmashx88x.github.io/DistortionTracker/)**
 
 
 ---
 
 ## 🎮 Gaming Tools & Projects I’ve Built
+
+### 🔥 **Distortions Tracker**  
+Clan I run on destiny 2.  
+👉 **[Visit Site](https://xsmashx88x.github.io/GurzilClan/)**
+
+|
+
+### 🔥 **Gurzil Clan Site**  
+Clan I run on destiny 2.  
+👉 **[Visit Site](https://xsmashx88x.github.io/GurzilClan/)**
+
+|
+
+### 🔥 **Save Destiny**  
+Was done to try and help peeps see, repost and more and keep the destiny IP alive.  
+👉 **[Visit Site](https://xsmashx88x.github.io/SaveDestiny/)**
+
+|
 
 ### 🔥 **Borderlands 4 SHiFT Code Tracker**  
 A clean, fast, auto‑updated tracker for BL4 SHiFT Codes, Golden Keys, and rewards.  
